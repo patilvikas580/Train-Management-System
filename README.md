@@ -27,7 +27,7 @@
 
 ## 📷 Demo Screenshot (Optional)
 
-*(You can add a screenshot of your application running in the terminal here.)*
+
 
 \`\`\`bash
 Train ID 101
@@ -44,7 +44,7 @@ Fare: 500 INR
 1️⃣ Clone the repository:
 
 \`\`\`bash
-git clone https://github.com/yourusername/Train-Reservation-System.git
+git clone https://github.com/patilvikas580/Train-Reservation-System.git
 \`\`\`
 
 2️⃣ Navigate to the directory:
@@ -63,18 +63,6 @@ g++ train_reservation.cpp -o train_reservation
 
 \`\`\`bash
 ./train_reservation
-\`\`\`
-
----
-
-## 📂 File Structure
-
-\`\`\`
-Train-Reservation-System/
-│── train_reservation.cpp  # Main source code
-│── README.md              # Project documentation
-│── tour.dat               # Binary file for train records
-│── tickets.dat            # Binary file for booked tickets
 \`\`\`
 
 ---
@@ -102,7 +90,7 @@ This project is **open-source** under the **MIT License**.
 ## 📞 Contact
 
 📧 **Email:** [patilvikas580@gmail.com](mailto:patilvikas580@gmail.com)\
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/vikas-patil-489317166/)
+🔗 **LinkedIn:** [Vikas/patil](https://www.linkedin.com/in/vikas-patil-489317166/)
 
 
 ---
