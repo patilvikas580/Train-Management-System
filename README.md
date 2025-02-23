@@ -102,6 +102,6 @@ This project is **open-source** under the **MIT License**.
 ## 📞 Contact
 
 📧 **Email:** [patilvikas580@gmail.com](mailto:patilvikas580@gmail.com)\
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+🔗 **LinkedIn:** [Vikas/patil]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/vikas-patil-489317166/))
 
 ---
